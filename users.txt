@@ -1,0 +1,4 @@
+ameth ba:781234567:passer:ADMIN:1
+assane ndiaye:771234567:passer:VENDEUR:1
+roronoa zoro:761234567:passer:RESTAURATEUR:1
+birane ndiaye:701234567:passer:ADMIN:0

@@ -1,0 +1,6 @@
+yassa:10:1500:riz,poulet,oignon:1
+Burger:17:1500:pain,poulet,oignon:1
+Eru:15:2000:feuille,huile de palm,fufu:1
+lakh: 22: 750: mil,sow,sucre,raisin: 1
+gombo:20:2500:oil,oignon:1
+tchiep:15:1000:oignons,riz,poulet,huile:1
